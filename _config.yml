@@ -4,4 +4,3 @@ baseurl: ""
 url: "https://tsukuyomi-rs.github.io/"
 github_username: tsukuyomi-rs
 markdown: kramdown
-theme: minima
