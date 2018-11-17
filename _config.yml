@@ -1,5 +1,5 @@
 title: Tsukuyomi
-description: A next generation Web framwork for Rust
+description: Asynchronous Web framwork for Rust
 baseurl: ""
 url: "https://tsukuyomi-rs.github.io/"
 github_username: tsukuyomi-rs
